@@ -36,6 +36,7 @@ Initial EDA yields some pretty strange outliers:
 
 Linearly Separable Data?
 - Binary classification and linear models will have a hard time if data is not linearly seperable
+- Use tree based models if so
 
 Danger of over fitting: if model is trained on specific inputs, it will not be applicable to others
 - Clustering
