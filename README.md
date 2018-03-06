@@ -17,11 +17,11 @@ Data provided by Hugo Darwood via Kaggle: https://www.kaggle.com/hugodarwood/epi
 
 Features are a mess
 
-![alt text](https://github.com/travisDhuang/Epicurious_Recipes/blob/master/recipes_eda.png)
+![alt text](https://github.com/travisDhuang/Epicurious_Recipes/blob/master/assets/recipes_eda.png)
 
 Rating distribution is NOT normalized
 
-![alt text](https://github.com/travisDhuang/Epicurious_Recipes/blob/master/rating_distribution.png)
+![alt text](https://github.com/travisDhuang/Epicurious_Recipes/blob/master/assets/rating_distribution.png)
 
 Feature Engineering: 680 columns
 - Ingredients are already label encoded
@@ -29,7 +29,7 @@ Feature Engineering: 680 columns
 
 Initial EDA yields some pretty strange outliers:
 
-![alt text](https://github.com/travisDhuang/Epicurious_Recipes/blob/master/salty_outliers.png)
+![alt text](https://github.com/travisDhuang/Epicurious_Recipes/blob/master/assets/salty_outliers.png)
 
 
 Linearly Separable Data?
