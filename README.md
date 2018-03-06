@@ -2,9 +2,6 @@
 Machine Learning Study on a Dataset of Epicurious Recipes
 
 Data provided by Hugo Darwood via Kaggle: https://www.kaggle.com/hugodarwood/epirecipes
-- In the interest of meeting a 3 week deadline, emphasis was placed on developing algorithms rather than data collection
-- There are several APIs available for recipe databases but are limiting due to cost and # of calls
-- Webscraping was also contemplated but ultimately foregone due to time considerations
 
 ### Goals:
 ##### 1.   Recipe recommendation engine: classification model
